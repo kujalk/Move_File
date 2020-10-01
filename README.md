@@ -1,10 +1,10 @@
 # Move_File
 
-1. Moving File from Folder A to Folder B while renaming the already existing files
+1) To Move files from folder A to B
 
-2. Filtered only text file
+2) If file already there in destination, it will be renamed to <file name>-<date>.extension
+  
+3) If file is not already there, it will be moved with same name
 
-3. Source Folder and Destination Folder should be provided within the script
-
-4. Renamed file will be in <original file name>-<date>.txt format
+4) In destination folder, it will create sub directories as it is in Source folder
 
